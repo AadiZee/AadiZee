@@ -1,20 +1,60 @@
-# Hi there 👋 I'm Adnan Zaib
+# Hi there 👋 I'm Adnan Zaib  
 
-🚀 Passionate Tech Leader | Full-Stack Architect | MERN Expert | TypeScript Advocate
+🚀 Passionate Tech Leader | Full-Stack Architect | MERN Expert | Blockchain Innovator  
 
-With over 6 years of experience delivering scalable, maintainable, and innovative web applications, I specialize in:
+With 6+ years of experience delivering enterprise-grade applications, I combine **hands-on engineering expertise** with **strategic leadership** to build secure, scalable, and innovative solutions.  
 
-- 🔧 Building enterprise-grade platforms using **MERN**, **TypeScript**, **Next.js**, and **NestJS**
-- 🧠 Leading and mentoring cross-functional engineering teams
-- 📦 Designing microservices and event-driven architectures
-- ⚙️ DevOps & CI/CD with Docker, GitHub Actions, and cloud-native solutions
+---
 
-## 📊 Stats
-![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadizee&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadizee&layout=compact&theme=radical)
+## 💼 Professional Snapshot  
 
-## 📫 Let's Connect
-- 🌐 [Portfolio](https://aadizee-portfolio.vercel.app/)
-- 🧑‍💼 [LinkedIn](https://linkedin.com/in/aadizee)
-- 📧 adnanzaib6@gmail.com
+- 🏦 **Ex-Head of Technology Development** @ LSE Capital (LSE Enterprises)
+- 🚀 Led **multidisciplinary teams of 15+ engineers** (developers, QA, DevOps, DBAs)  
+- 🔗 Architected **Ethereum blockchain solutions** for secure, transparent asset management  
+- ⚙️ Designed **microservices-based architectures** to boost uptime and scalability  
+- ☁️ Cloud-native engineer with **AWS Serverless, Lambda, S3, CloudFront, API Gateway**  
+- 🧠 Proven mentor and leader fostering **collaborative, high-performance engineering teams**  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.9-3178C6?style=flat&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
+
+**Backend & Blockchain**  
+![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-10-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-4-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6.0-47A248?style=flat&logo=mongodb&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-Smart%20Contracts-3C3C3D?style=flat&logo=ethereum&logoColor=white)  
+
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-24-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Serverless-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white)  
+
+---
+
+## 🏆 Key Achievements  
+
+- **Scalable System Architecture** → Designed microservices architecture improving uptime & availability  
+- **Leadership & Team Growth** → Built and scaled engineering teams, mentoring 15+ professionals  
+- **Blockchain Innovation** → Delivered **Ethereum smart contract solutions** for enterprise clients  
+- **Agile & CI/CD Transformation** → Reduced release cycles, improved feature delivery speed  
+- **Security & Compliance** → Implemented encryption & compliance standards ensuring data integrity  
+
+---
+
+## 📫 Let's Connect  
+
+- 🌐 [Portfolio](https://aadizee-portfolio.vercel.app)  
+- 🧑‍💼 [LinkedIn](https://linkedin.com/in/aadizee)  
+- 📧 adnanzaib6@gmail.com  
+- 💻 [GitHub](https://github.com/aadizee)  
 
